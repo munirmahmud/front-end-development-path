@@ -2,9 +2,13 @@
 
 #Day 1
     What is React?
+    
     Real-World SPAs & React Web Apps
+    
     Why Should we Choose React?
+    
     Understanding Single Page Applications and Multi Page Applications
+    
 
 #Day 2
     #Refreshing Vanila JavaScript
