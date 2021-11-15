@@ -1,12 +1,12 @@
 # Front End Development Path
 
-#Day 1
+## #Day 1
     What is React?     
     Real-World SPAs & React Web Apps  
     Why Should we Choose React?  
     Understanding Single Page Applications and Multi Page Applications  
 
-#Day 2
+## #Day 2
     #Refreshing Vanila JavaScript
         Understanding let, const, and var
         Arrow Functions
@@ -17,7 +17,7 @@
         Reference and Primitive Types Refresher
         And more...
 
-#Day 3
+## #Day 3
     Hands on practice with String Methods
     Hands on practice with Array Functions
 
