@@ -1,10 +1,10 @@
 # Front End Development Path
 
 #Day 1
-    What is React? (<-- two spaces)    
-    Real-World SPAs & React Web Apps (<-- two spaces)    
-    Why Should we Choose React? (<-- two spaces)    
-    Understanding Single Page Applications and Multi Page Applications (<-- two spaces)    
+    What is React?     
+    Real-World SPAs & React Web Apps  
+    Why Should we Choose React?  
+    Understanding Single Page Applications and Multi Page Applications  
 
 #Day 2
     #Refreshing Vanila JavaScript
