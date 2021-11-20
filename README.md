@@ -136,7 +136,8 @@
 
 ## Day 17 - Day 20
 
-    --- Building a Multi Page SPA
+    --- Building a Multi Page Website
+        SPA
 
 ## Day 21
 
@@ -148,3 +149,40 @@
         Redirecting The User & Logout
         Protecting Frontend Pages
         Persisting The User Authentication Status
+        
+        
+## Day 22
+
+    --- Authentication to React APP (Part 2)
+        Managing The Auth State
+        Using The Token For Requests To Protected Resources
+        Redirecting The User & Logout
+        Protecting Frontend Pages
+        Persisting The User Authentication Status
+
+## Day 23
+
+    --- Real life project 
+        Shopping cart
+
+## Day 24
+
+    --- State Management with  Context API
+        Introducing React Context (Context API)
+        Why and When should we use Context API
+        Build a shopping cart project with Context API
+        
+## Day 25
+
+    --- State Management with Redux (An Alternative To The Context API)
+        Redux vs Context API
+        How Redux Works
+        Diving into Redux
+        Build a shopping cart project with React Redux
+        
+## Day 26
+
+    --- 
+        
+        
+        
