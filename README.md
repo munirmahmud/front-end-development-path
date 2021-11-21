@@ -26,17 +26,110 @@
         Creating columns
         Background Images
         Relative file paths
+        
+## Day 3
+    --- Build a project with HTML & CSS
+        Starting off with a blank file
+        Adding lists to a page
+        Adding Image
+        Adding some style to our page
+        Layout Designing
+        Creating columns
+        
+## Day 4
+    --- JavaScript Fundamentals (Part 1)
+    A Brief Introduction to JavaScript
+    Linking a JavaScript File
+    Values and Variables
+    Data Types
+    let, const and var
+    Strings and Template Literals
     
-
-## Day 1
-
-    1. What is React?
-    2. Why Should we Choose React?
-    3. Understanding Single Page Applications and Multi Page Applications.
-    4. Real-World SPAs & React Web Apps Example.
-
-## Day 2
-
+## Day 5
+    --- JavaScript Fundamentals (Part 2)
+    Taking Decisions: if / else Statements
+    Type Conversion and Coercion
+    Truthy and Falsy Values
+    Boolean Logic
+    Logical Operators
+    The switch Statement
+    Statements and Expressions
+    
+## Day 6
+    --- JavaScript Fundamentals (Part 3)
+    Functions
+    Function Declarations vs. Expressions
+    Arrow Functions
+    Basic Array Operations (Methods)
+    Introduction to Objects
+    Object Methods
+    Iteration The for Loop
+    The while Loop
+    
+## Day 7
+    --- Building a todo app with Vanilla JavaScript
+    Build a form to add tasks
+    Insert tasks and show them
+    Save data into local storage
+    Get Data from Local storage and show them
+    
+## Day 8
+    --- ReactJS Introduction
+    React Basics
+    Why use React?
+    ReactDOM & JSX
+    ReactDOM & JSX Practice
+    React Functional Components
+    React Parent/Child Components
+    Styling React with CSS Classes
+    
+## Day 9
+    --- Setting up Developer environment
+        Visual Studio Code configuration
+        npm
+        Prettier
+        ESLint
+        Git
+        Parcel
+        Babel    
+    
+## Day 10
+    --- React Hooks
+    Hooks Intro
+    useState() Part 1 - Creating State
+    useState() Part 2 - Changing State
+    useState() Part 3 - Changing More Complex State
+    useEffect() Part 1
+    useEffect() Part 2
+    React Project Ideas for Practicing
+    
+## Day 11
+    --- Building a simple Card project
+    
+## Day 12
+    --- Building a blog project
+    
+## Day 13
+    --- Advanced React Hooks
+    useCallback
+    useMemo
+    useRef
+    
+## Day 14
+    --- Todo App With ReactJS    
+    
+## Day 15
+    --- Build a movie App
+    How To Get Your Movie DB API Key
+    Add Base Styles to Our App
+    Create Movie Card Component
+    Style the Search Movies Component
+    Create the Search Movies Function
+    Manage State with React useState Hook
+    Display Movie Information
+    Style the Movie Cards
+    
+## Day 9
     1. Refreshing Vanila JavaScript.
     2. Understanding let, const, and var.
     3. Arrow Functions.
@@ -66,15 +159,7 @@
     Your First Vanilla React Component
     Components & Props
 
-## Day 7
 
-    --- Using JavaScript Tools
-        npm
-        Prettier
-        ESLint
-        Git
-        Parcel
-        Babel
 
 ## Day 8
 
