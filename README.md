@@ -1,5 +1,33 @@
 # Front End Development Path With React
 
+## Orientation Class
+    An Overview of Web Development and it's Future
+
+## Day 1
+    --- HTML Crash Course
+        Introduction to HTML
+        Document Structure
+        Creating a new page
+        Inline Elements
+        Nesting
+        Attributes and Links
+        Images
+        Lists
+    
+## Day 2
+    --- CSS Crash Course
+        Introduction to CSS - Syntax basics
+        Inheritance
+        The box model
+        Organizing our content with semantic HTML
+        Classes and IDs
+        Spans and Divs
+        Centering content
+        Creating columns
+        Background Images
+        Relative file paths
+    
+
 ## Day 1
 
     1. What is React?
