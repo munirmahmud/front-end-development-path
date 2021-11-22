@@ -91,121 +91,9 @@
         ESLint
         Git
         Parcel
-        Babel    
-    
+        Babel
+        
 ## Day 10
-    --- React Hooks
-    Hooks Intro
-    useState() Part 1 - Creating State
-    useState() Part 2 - Changing State
-    useState() Part 3 - Changing More Complex State
-    useEffect() Part 1
-    useEffect() Part 2
-    React Project Ideas for Practicing
-    
-## Day 11
-    --- Building a simple Card project
-    
-## Day 12
-    --- Building a blog project
-    
-## Day 13
-    --- Advanced React Hooks
-    useCallback
-    useMemo
-    useRef
-    
-## Day 14
-    --- Todo App With ReactJS    
-    
-## Day 15
-    --- Build a movie search App
-    How To Get Your Movie DB API Key
-    Add Base Styles to Our App
-    Create Movie Card Component
-    Style the Search Movies Component
-    Create the Search Movies Function
-    Manage State with React useState Hook
-    Display Movie Information
-    Style the Movie Cards
-    
-## Day 16
-    --- 
-    What is ES6, ES7+
-    Arrow Functions.
-    Exports and Imports.
-    Classes, Properties and Methods.
-    The Spread & Rest Operator.
-    Destructuring Objects and Arrays.
-    Reference and Primitive Types Refresher And more...
-    
-## Day 16
-    --- Advanced JavaScript (Part 1)
-    What is ES6, ES7+
-    Arrow Functions.
-    Exports and Imports.
-    Classes, Properties and Methods.
-    The Spread & Rest Operator.
-    Destructuring Objects and Arrays.
-    Reference and Primitive Types Refresher And more...
-    
-## Day 16
-    --- --- Advanced JavaScript (Part 2)
-    241 Asynchronous JavaScript, AJAX and APIs
-    244 Welcome to Callback Hell
-    245 Promises and the Fetch API
-    246 Consuming Promises
-    247 Chaining Promises
-    248 Handling Rejected Promises
-    
-    
-## Day 9
-    1. Refreshing Vanila JavaScript.
-    2. Understanding let, const, and var.
-    3. Arrow Functions.
-    4. Exports and Imports.
-    5. Classes, Properties and Methods.
-    6. The Spread & Rest Operator.
-    7. Destructuring Objects and Arrays.
-    8. Reference and Primitive Types Refresher And more...
-
-## Day 3
-
-    1. Hands on practice with String Methods
-    2. Hands on practice with Array Functions
-
-## Day 4
-
-    1. Vanila JS projects (Todo App)
-    2. ReactJs App (Todo App)
-
-## Day 5
-
-    Slider
-
-## Day 6
-
-    Vanilla React & Project Setup
-    Your First Vanilla React Component
-    Components & Props
-
-
-
-## Day 8
-
-    --- Core React Concepts
-        JSX
-        ESLint & React
-        Hooks
-        Rules of Hooks
-        useEffect & Fetching API Data
-        Custom Hooks
-        Handling User Input
-        Dev Environment
-        React Dev Tools
-
-## Day 9
-
     --- Understanding the Base Features & Syntax
         Understanding JSX & it's restrictions
         Understanding Functional Component & Reusing them
@@ -218,36 +106,75 @@
         Working with Styles in multiple ways
         Assignment - Card Project
 
-## Day 10
-
-    --- Diving Deeper into Components & React Internals
-        Project Architecture
-        Splitting an App Into Components
-        Using useEffect() Hook and it's behavior
-        Optimize Components with React.memo()
-
 ## Day 11
-
+    --- React Hooks
+    Hooks Intro
+    useState() Part 1 - Creating State
+    useState() Part 2 - Changing State
+    useState() Part 3 - Changing More Complex State
+    useEffect() Part 1
+    useEffect() Part 2
+    React Project Ideas for Practicing
+    
+## Day 12
+    --- Building a simple Card project
+    
+## Day 13
+    --- Building a blog project
+    
+## Day 14
+    --- Advanced React Hooks
+    useCallback
+    useMemo
+    useRef
+    
+## Day 15
+    --- Todo App With ReactJS    
+    
+## Day 16
+    --- A Real World App:
+        Convert an HTML template into ReactJS
+    
+## Day 17
+    --- Build a movie search App
+    How To Get Your Movie DB API Key
+    Add Base Styles to Our App
+    Create Movie Card Component
+    Style the Search Movies Component
+    Create the Search Movies Function
+    Manage State with React useState Hook
+    Display Movie Information
+    Style the Movie Cards
+    
+## Day 18
+    What is ES6, ES7+
+    Arrow Functions.
+    Exports and Imports.
+    Classes, Properties and Methods.
+    The Spread & Rest Operator.
+    Destructuring Objects and Arrays.
+    Reference and Primitive Types Refresher And more...
+    
+## Day 19
+    Build a shopping cart with vanilla JavaScript
+    
+## Day 20
+    --- --- Advanced JavaScript
+    Asynchronous JavaScript, AJAX and APIs
+    Welcome to Callback Hell
+    Promises and the Fetch API
+    Consuming Promises
+    Chaining Promises
+    Handling Rejected Promises
+    
+## Day 21
     --- Discussion on Higher Order Components
         Using PropTypes
         Use of useRef() Hook
         Understanding Prop Chain Problem
         Use of Context API
 
-## Day 12
-
-    --- A Real World App:
-        Convert an HTML template into ReactJS
-
-## Day 13
-
-    --- How to Build reusable component
-        Adding a "User" Component
-        Adding a re-usable "Card" Component
-        Adding a re-usable "Button" Component
-
-## Day 14
-
+## Day 22
     --- Building Form with Bootstrap
         Managing the User Input State
         Adding Validation & Resetting Logic
@@ -256,16 +183,14 @@
         Adding The "ErrorModal" Component
         Managing the Error State
 
-## Day 15
-
+## Day 23
     --- Building a Shopping Cart APP (Part 1)
         "Header", "Cart", & "Button" Component
         "Products" Component
         Individual Product Items & Displaying Them
         Add new Product
 
-## Day 16
-
+## Day 24
     --- Building a Shopping Cart APP (Part 2)
         Working on the "Shopping Cart" Component
         Adding a Modal via a React Portal
@@ -277,13 +202,7 @@
         Display Cart Items
         Making Items Removable
 
-## Day 17 - Day 20
-
-    --- Building a Multi Page Website
-        SPA
-
-## Day 21
-
+## Day 25
     --- Authentication to React APP
         User Signup
         User Login
@@ -292,31 +211,19 @@
         Redirecting The User & Logout
         Protecting Frontend Pages
         Persisting The User Authentication Status
-        
-        
-## Day 22
 
-    --- Authentication to React APP (Part 2)
-        Managing The Auth State
-        Using The Token For Requests To Protected Resources
-        Redirecting The User & Logout
-        Protecting Frontend Pages
-        Persisting The User Authentication Status
-
-## Day 23
+## Day 26
 
     --- Real life project 
         Shopping cart
 
-## Day 24
-
+## Day 27
     --- State Management with  Context API
         Introducing React Context (Context API)
         Why and When should we use Context API
         Build a shopping cart project with Context API
         
-## Day 25
-
+## Day 28
     --- State Management with Redux (An Alternative To The Context API)
         Redux vs Context API
         How Redux Works
@@ -324,8 +231,6 @@
         Build a shopping cart project with React Redux
         
 ## Day 26
-
-    --- 
         
         
         
