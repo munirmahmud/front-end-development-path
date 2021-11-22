@@ -228,9 +228,5 @@
         Redux vs Context API
         How Redux Works
         Diving into Redux
-        Build a shopping cart project with React Redux
-        
-## Day 26
-        
-        
+        Build a shopping cart project with React Redux     
         
