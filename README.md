@@ -119,7 +119,7 @@
     --- Todo App With ReactJS    
     
 ## Day 15
-    --- Build a movie App
+    --- Build a movie search App
     How To Get Your Movie DB API Key
     Add Base Styles to Our App
     Create Movie Card Component
@@ -128,6 +128,36 @@
     Manage State with React useState Hook
     Display Movie Information
     Style the Movie Cards
+    
+## Day 16
+    --- 
+    What is ES6, ES7+
+    Arrow Functions.
+    Exports and Imports.
+    Classes, Properties and Methods.
+    The Spread & Rest Operator.
+    Destructuring Objects and Arrays.
+    Reference and Primitive Types Refresher And more...
+    
+## Day 16
+    --- Advanced JavaScript (Part 1)
+    What is ES6, ES7+
+    Arrow Functions.
+    Exports and Imports.
+    Classes, Properties and Methods.
+    The Spread & Rest Operator.
+    Destructuring Objects and Arrays.
+    Reference and Primitive Types Refresher And more...
+    
+## Day 16
+    --- --- Advanced JavaScript (Part 2)
+    241 Asynchronous JavaScript, AJAX and APIs
+    244 Welcome to Callback Hell
+    245 Promises and the Fetch API
+    246 Consuming Promises
+    247 Chaining Promises
+    248 Handling Rejected Promises
+    
     
 ## Day 9
     1. Refreshing Vanila JavaScript.
